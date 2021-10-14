@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HomeTest/static/css/main.8bd38bbf.chunk.css",
-    "main.js": "/HomeTest/static/js/main.5460dc88.chunk.js",
-    "main.js.map": "/HomeTest/static/js/main.5460dc88.chunk.js.map",
+    "main.css": "/HomeTest/static/css/main.9f75da2d.chunk.css",
+    "main.js": "/HomeTest/static/js/main.39a540bb.chunk.js",
+    "main.js.map": "/HomeTest/static/js/main.39a540bb.chunk.js.map",
     "runtime-main.js": "/HomeTest/static/js/runtime-main.afd71586.js",
     "runtime-main.js.map": "/HomeTest/static/js/runtime-main.afd71586.js.map",
     "static/js/2.3f1ceab1.chunk.js": "/HomeTest/static/js/2.3f1ceab1.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a640ecd5.chunk.js": "/HomeTest/static/js/3.a640ecd5.chunk.js",
     "static/js/3.a640ecd5.chunk.js.map": "/HomeTest/static/js/3.a640ecd5.chunk.js.map",
     "index.html": "/HomeTest/index.html",
-    "static/css/main.8bd38bbf.chunk.css.map": "/HomeTest/static/css/main.8bd38bbf.chunk.css.map",
+    "static/css/main.9f75da2d.chunk.css.map": "/HomeTest/static/css/main.9f75da2d.chunk.css.map",
     "static/js/2.3f1ceab1.chunk.js.LICENSE.txt": "/HomeTest/static/js/2.3f1ceab1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.afd71586.js",
     "static/js/2.3f1ceab1.chunk.js",
-    "static/css/main.8bd38bbf.chunk.css",
-    "static/js/main.5460dc88.chunk.js"
+    "static/css/main.9f75da2d.chunk.css",
+    "static/js/main.39a540bb.chunk.js"
   ]
 }
