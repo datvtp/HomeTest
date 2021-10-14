@@ -9,7 +9,7 @@ function Dropdown ({selected, setSelected}) {
                 setIsActive(!isActive)
             }}>
                 {selected ? selected : 'Choose one food'}
-                <span className="fas fa-caret-down"></span>
+                <span><i className={isActive ? "up-arrow" : "down-arrow"}></i></span>
             </div>
             {isActive && (
                 <div className="dropdown-content">
