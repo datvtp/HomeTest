@@ -15,3 +15,7 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+//  https://reqres.in/ 
+// Load data list from https://reqres.in/ and search againsts it.
+// Add loading view while fetching the dataset.
+// Add view more button or scroll to show more.

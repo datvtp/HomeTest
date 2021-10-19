@@ -13,10 +13,18 @@ body {
 }
 
 .dropdown {
-  width: 20.5%;
-  margin: 20% auto;
+  /* width: 20.5%; */
+  /* margin: 20% auto; */
   position: relative;
   user-select: none;
+}
+
+.dropdown-1 .dropdown .dropdown-content {
+  z-index: 1;
+}
+
+.dropdown-2 .dropdown .dropdown-content {
+  z-index: -1;
 }
 
 .dropdown .dropdown-button {
@@ -48,8 +56,7 @@ body {
 
 .dropdown .dropdown-content {
   position: absolute;
-  top: 110%;
-  left: 0;
+  
   padding: 10px;
   background: #fff;
   box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
