@@ -110,7 +110,7 @@ function Dropdown ({selected, setSelected, zIndex = 1, position}) {
                                 setSelected(selected + ', ' + option);
                             }
                             
-                            // ahihihihihihihi ahahahahaha ahuhuhuhuhu
+                            // ahihihihihihihi ahahahahaha ahuhuhuhuhu  ahihuha
                         }}>
                             {option}
                         </div>
